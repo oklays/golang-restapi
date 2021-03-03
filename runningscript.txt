@@ -1,0 +1,1 @@
+POSTGRES_HOST=localhost POSTGRES_USER=admin POSTGRES_PASSWORD=admin123 POSTGRES_DB_NAME=wartech POSTGRES_DB_SCHEMA=wartech_schema go run main.go
